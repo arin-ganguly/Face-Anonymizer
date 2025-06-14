@@ -4,6 +4,7 @@ An open-source Python application that detects and anonymizes faces in images an
 This tool can blur or pixelate detected faces, making it useful for privacy protection in media content.
 
 **Sample Output Video**
+
 https://github.com/user-attachments/assets/8e34400c-53be-456a-be52-81f40b20d4fa
 
 ## 📌 Features
